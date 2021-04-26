@@ -1,6 +1,8 @@
 # Seam Carving
 
-A real-time implementation of [Seam Carving for Content-Aware Image Resizing [Avidan and Shamir 2007]](https://faculty.idc.ac.il/arik/SCWeb/imret/imret.pdf), adapted for the web. Check out the live demo here: https://brianstrauch.com/seam-carving/
+A real-time implementation of [Seam Carving for Content-Aware Image Resizing [Avidan and Shamir 2007]](https://faculty.idc.ac.il/arik/SCWeb/imret/imret.pdf), adapted for the web.
+
+Check out the live demo here: https://brianstrauch.com/seam-carving/
 
 ## Instructions
 1. To run, place an image in the `samples/` folder. (Ex: `samples/background.jpg`)
